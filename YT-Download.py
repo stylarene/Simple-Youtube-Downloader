@@ -2,7 +2,7 @@ from pytube import YouTube
 import moviepy.editor as mp
 
 # URL des YouTube-Videos angeben
-video_url = 'https://youtu.be/PHW1RLjm1-w'
+video_url = 'YOURYOUTUBELINK'
 
 # YouTube-Video mit pytube herunterladen
 yt = YouTube(video_url)
